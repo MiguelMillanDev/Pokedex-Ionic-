@@ -1,0 +1,7 @@
+{
+  "name": "HITO2-T2-Pokedex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
